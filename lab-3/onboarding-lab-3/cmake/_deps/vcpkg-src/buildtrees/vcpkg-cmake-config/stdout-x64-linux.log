@@ -1,0 +1,4 @@
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake-config_x64-linux/share/vcpkg-cmake-config/vcpkg_cmake_config_fixup.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake-config_x64-linux/share/vcpkg-cmake-config/vcpkg-port-config.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake-config_x64-linux/share/vcpkg-cmake-config/copyright
+-- Skipping post-build validation due to VCPKG_POLICY_EMPTY_PACKAGE

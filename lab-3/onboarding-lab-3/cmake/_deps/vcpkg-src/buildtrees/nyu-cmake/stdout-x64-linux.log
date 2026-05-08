@@ -1,0 +1,12 @@
+Downloading https://github.com/NYU-Processor-Design/nyu-cmake/archive/7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz -> NYU-Processor-Design-nyu-cmake-7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz
+Successfully downloaded NYU-Processor-Design-nyu-cmake-7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz
+-- Extracting source /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/downloads/NYU-Processor-Design-nyu-cmake-7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz
+-- Using source at /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/buildtrees/nyu-cmake/src/8f68676666-a718d72861.clean
+-- Configuring x64-linux
+-- Building x64-linux-dbg
+-- Building x64-linux-rel
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/copyright
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/usage
+Downloading https://github.com/NixOS/patchelf/releases/download/0.15.5/patchelf-0.15.5-x86_64.tar.gz -> patchelf-0.15.5-x86_64.tar.gz
+Successfully downloaded patchelf-0.15.5-x86_64.tar.gz
+-- Performing post-build validation

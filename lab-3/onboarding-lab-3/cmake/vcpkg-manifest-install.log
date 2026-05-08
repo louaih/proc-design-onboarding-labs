@@ -1,0 +1,66 @@
+Fetching registry information from https://github.com/NYU-Processor-Design/nyu-registry.git (HEAD)...
+Fetching registry information from https://github.com/microsoft/vcpkg.git (HEAD)...
+Detecting compiler hash for triplet x64-linux...
+Compiler found: /usr/bin/c++
+The following packages will be built and installed:
+    nyu-cmake:x64-linux@1.2.0 -- git+https://github.com/NYU-Processor-Design/nyu-registry.git@796e70171561f180286433537fb6ed771a4272dc
+  * vcpkg-cmake:x64-linux@2024-04-23 -- git+https://github.com/microsoft/vcpkg.git@e74aa1e8f93278a8e71372f1fa08c3df420eb840
+  * vcpkg-cmake-config:x64-linux@2024-05-23 -- git+https://github.com/microsoft/vcpkg.git@97a63e4bc1a17422ffe4eff71da53b4b561a7841
+Additional packages (*) will be modified to complete this operation.
+Restored 0 package(s) from /home/louai/.cache/vcpkg/archives in 8.66 us. Use --debug to see more details.
+Installing 1/3 vcpkg-cmake-config:x64-linux@2024-05-23...
+vcpkg-cmake-config:x64-linux@2024-05-23 package ABI: 94b5ea84c5c6d660eab242448776a067d7affd451a2ca6b1b0ea3ea4f7f104a3
+Building vcpkg-cmake-config:x64-linux@2024-05-23...
+/home/louai/.cache/vcpkg/registries/git-trees/97a63e4bc1a17422ffe4eff71da53b4b561a7841: info: installing from git registry git+https://github.com/microsoft/vcpkg.git@97a63e4bc1a17422ffe4eff71da53b4b561a7841
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake-config_x64-linux/share/vcpkg-cmake-config/vcpkg_cmake_config_fixup.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake-config_x64-linux/share/vcpkg-cmake-config/vcpkg-port-config.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake-config_x64-linux/share/vcpkg-cmake-config/copyright
+-- Skipping post-build validation due to VCPKG_POLICY_EMPTY_PACKAGE
+Starting submission of vcpkg-cmake-config:x64-linux@2024-05-23 to 1 binary cache(s) in the background
+Elapsed time to handle vcpkg-cmake-config:x64-linux: 17.9 ms
+Installing 2/3 vcpkg-cmake:x64-linux@2024-04-23...
+vcpkg-cmake:x64-linux@2024-04-23 package ABI: 82732cafa54bcf299d1e6bd75d61ca4422b0d8c7173cca5cac5f8b5da212006f
+Building vcpkg-cmake:x64-linux@2024-04-23...
+/home/louai/.cache/vcpkg/registries/git-trees/e74aa1e8f93278a8e71372f1fa08c3df420eb840: info: installing from git registry git+https://github.com/microsoft/vcpkg.git@e74aa1e8f93278a8e71372f1fa08c3df420eb840
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake_x64-linux/share/vcpkg-cmake/vcpkg_cmake_configure.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake_x64-linux/share/vcpkg-cmake/vcpkg_cmake_build.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake_x64-linux/share/vcpkg-cmake/vcpkg_cmake_install.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake_x64-linux/share/vcpkg-cmake/vcpkg-port-config.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/vcpkg-cmake_x64-linux/share/vcpkg-cmake/copyright
+-- Performing post-build validation
+Starting submission of vcpkg-cmake:x64-linux@2024-04-23 to 1 binary cache(s) in the background
+Elapsed time to handle vcpkg-cmake:x64-linux: 18.5 ms
+Completed submission of vcpkg-cmake-config:x64-linux@2024-05-23 to 1 binary cache(s) in 5.43 ms
+Installing 3/3 nyu-cmake:x64-linux@1.2.0...
+nyu-cmake:x64-linux@1.2.0 package ABI: 954d5fca59a025d7e441a737dba0c8f88811694c52da15bfe419d82c0f5e9607
+Building nyu-cmake:x64-linux@1.2.0...
+/home/louai/.cache/vcpkg/registries/git-trees/796e70171561f180286433537fb6ed771a4272dc: info: installing from git registry git+https://github.com/NYU-Processor-Design/nyu-registry.git@796e70171561f180286433537fb6ed771a4272dc
+Downloading https://github.com/NYU-Processor-Design/nyu-cmake/archive/7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz -> NYU-Processor-Design-nyu-cmake-7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz
+Successfully downloaded NYU-Processor-Design-nyu-cmake-7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz
+-- Extracting source /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/downloads/NYU-Processor-Design-nyu-cmake-7ddbf0c2ae6be450c191d640d77a458f68676666.tar.gz
+-- Using source at /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/buildtrees/nyu-cmake/src/8f68676666-a718d72861.clean
+-- Configuring x64-linux
+-- Building x64-linux-dbg
+-- Building x64-linux-rel
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/copyright
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/usage
+Downloading https://github.com/NixOS/patchelf/releases/download/0.15.5/patchelf-0.15.5-x86_64.tar.gz -> patchelf-0.15.5-x86_64.tar.gz
+Successfully downloaded patchelf-0.15.5-x86_64.tar.gz
+-- Performing post-build validation
+Starting submission of nyu-cmake:x64-linux@1.2.0 to 1 binary cache(s) in the background
+Elapsed time to handle nyu-cmake:x64-linux: 7.5 s
+Installed contents are licensed to you by owners. Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Packages installed in this vcpkg installation declare the following licenses:
+CC0-1.0
+MIT
+nyu-cmake does not provide any targets, only functions
+
+    find_package(nyu-cmake CONFIG REQUIRED)
+
+    nyu_add_sv(target verilog.sv)
+    nyu_verilate(target)
+
+Completed submission of vcpkg-cmake:x64-linux@2024-04-23 to 1 binary cache(s) in 4.31 ms
+Waiting for 1 remaining binary cache submissions...
+Completed submission of nyu-cmake:x64-linux@1.2.0 to 1 binary cache(s) in 3.48 ms (1/1)
+All requested installations completed successfully in: 7.6 s

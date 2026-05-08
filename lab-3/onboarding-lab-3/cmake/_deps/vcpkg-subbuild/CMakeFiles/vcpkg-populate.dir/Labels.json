@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/CMakeFiles/vcpkg-populate"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/CMakeFiles/vcpkg-populate.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/CMakeFiles/vcpkg-populate-complete.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-build.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-configure.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-copyfile.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-download.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-install.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-patch.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-test.rule"
+		},
+		{
+			"file" : "/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/vcpkg-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vcpkg-populate"
+		],
+		"name" : "vcpkg-populate"
+	}
+}

@@ -1,0 +1,24 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 94b5ea84c5c6d660eab242448776a067d7affd451a2ca6b1b0ea3ea4f7f104a3
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-linux
+Multi-Arch: same
+Abi: 82732cafa54bcf299d1e6bd75d61ca4422b0d8c7173cca5cac5f8b5da212006f
+Status: install ok installed
+
+Package: nyu-cmake
+Version: 1.2.0
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-linux
+Multi-Arch: same
+Maintainer: Vito Gamberini <vito@gamberini.email>
+Abi: 954d5fca59a025d7e441a737dba0c8f88811694c52da15bfe419d82c0f5e9607
+Description: NYU Processor Design's CMake function repo
+Status: install ok installed
+

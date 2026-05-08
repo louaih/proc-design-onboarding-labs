@@ -1,0 +1,10 @@
+Change Dir: '/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/buildtrees/nyu-cmake/x64-linux-dbg'
+
+Run Build Command(s): /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/downloads/tools/ninja-1.13.2-linux/ninja -v -v -j5 install
+[0/1] cd /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/buildtrees/nyu-cmake/x64-linux-dbg && /usr/bin/cmake -P cmake_install.cmake
+-- Install configuration: "Debug"
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/debug/share/nyu-cmake/nyu-verilog.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/debug/share/nyu-cmake/nyu-test.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/debug/share/nyu-cmake/nyu-cmake-config.cmake
+-- Installing: /home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/debug/share/nyu-cmake/nyu-cmake-config-version.cmake
+

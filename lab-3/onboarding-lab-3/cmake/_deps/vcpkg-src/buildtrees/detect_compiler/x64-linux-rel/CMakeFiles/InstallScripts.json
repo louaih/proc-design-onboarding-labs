@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/buildtrees/detect_compiler/x64-linux-rel/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

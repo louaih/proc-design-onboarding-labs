@@ -1,0 +1,11 @@
+x64-linux/
+x64-linux/share/
+x64-linux/share/nyu-cmake/
+x64-linux/share/nyu-cmake/copyright
+x64-linux/share/nyu-cmake/nyu-cmake-config-version.cmake
+x64-linux/share/nyu-cmake/nyu-cmake-config.cmake
+x64-linux/share/nyu-cmake/nyu-test.cmake
+x64-linux/share/nyu-cmake/nyu-verilog.cmake
+x64-linux/share/nyu-cmake/usage
+x64-linux/share/nyu-cmake/vcpkg.spdx.json
+x64-linux/share/nyu-cmake/vcpkg_abi_info.txt

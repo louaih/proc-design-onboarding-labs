@@ -1,0 +1,4 @@
+/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/nyu-verilog.cmake
+/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/nyu-test.cmake
+/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/nyu-cmake-config.cmake
+/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src/packages/nyu-cmake_x64-linux/share/nyu-cmake/nyu-cmake-config-version.cmake

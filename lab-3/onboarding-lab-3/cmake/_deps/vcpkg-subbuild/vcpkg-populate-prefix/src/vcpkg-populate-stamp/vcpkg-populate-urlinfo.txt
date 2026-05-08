@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/download-vcpkg-populate.cmake;COMMAND;/usr/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-subbuild/vcpkg-populate-prefix/src/vcpkg-populate-stamp/verify-vcpkg-populate.cmake
+source_dir=/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps/vcpkg-src
+work_dir=/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/_deps
+url(s)=https://github.com/microsoft/vcpkg-tool/releases/latest/download/vcpkg-glibc
+hash=
+      no_extract=YES
+

@@ -1,0 +1,1 @@
+/usr/bin/verilator_bin;--compiler;gcc;--prefix;VExercise1;--Mdir;/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/cmake/CMakeFiles/exercise1.dir/VExercise1.dir;--make;cmake;--top;Exercise1;--cc;/home/louai/proc-design-onboarding-labs/lab-3/onboarding-lab-3/rtl/Exercise1.sv

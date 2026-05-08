@@ -1,0 +1,8 @@
+# Onboarding Lab 2 Notes and Answers
+
+## Make Note: In the next lab you’ll learn more about verification testing, but for now take a quick glance at dv/exercise1.cpp, dv/exercise2.cpp, and dv/exercise3.cpp. Exercise1 exhaustively tests all possible inputs, Exercise2 samples some possible initial values for a hundred cycles, and Exercise3 randomly tests inputs for a hundred cycles. Why do you think the reason for these different testing approaches are? What are their advantages and disadvantages?
+
+## Answer:
+- Exercise1 exhaustively tests all possible inputs, which ensures that every combination of inputs is tested. This is advantageous because it guarantees that all edge cases are covered, but it can be time-consuming and computationally expensive, especially for larger input spaces.
+- Exercise2 samples some possible initial values for a hundred cycles, which is a more efficient way to test the design. This approach can catch many common issues without needing to test every possible input. However, it may miss some edge cases or rare conditions that could occur in the design.
+- Exercise3 randomly tests inputs for a hundred cycles, which can be useful for finding unexpected bugs that may not be covered by systematic testing. This approach can quickly identify issues that arise from random combinations of inputs, but it may also miss important edge cases if the random sampling does not cover them.
